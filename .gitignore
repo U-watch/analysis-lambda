@@ -1,0 +1,7 @@
+client_secret.json
+lambda_results.json
+youtube_token.json
+.DS_Store
+**/package/
+**/package.zip
+csv/
